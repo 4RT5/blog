@@ -1,0 +1,37 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.travel_mainDiv{
+    border: 1px solid lightgrey;
+}
+
+.travel_mainDiv img{
+    width: 100%;
+
+}
+.filmeHead i
+
+{
+
+     float: right;
+
+}
+
+.filmeHead
+
+{
+
+     font-size: 20px;
+
+     padding: 6px 22px;
+
+     border-radius: 10px;
+
+     margin-bottom: 15px;
+
+}
+.felmesEstrelas span{
+    color: goldenrod;
+}
